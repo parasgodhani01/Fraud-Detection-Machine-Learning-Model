@@ -9,11 +9,11 @@ A production-ready, end-to-end machine learning system for detecting financial f
 ```
 Raw Data (6.3M rows)
         ↓
-Exploratory Data Analysis (7 visualizations)
+Exploratory Data Analysis 
         ↓
-Feature Engineering (27 new features)
+Feature Engineering 
         ↓
-Model Training (XGBoost GPU + Random Forest)
+Model Training 
         ↓
 MLflow Experiment Tracking
         ↓
@@ -76,13 +76,6 @@ AWS ECS (Production)
 ---
 
 ## 🖥️ Web App Preview
-
-<!-- Add your screenshot here:
-1. Take a screenshot of your running API (http://localhost:8000/docs)
-2. Save it as preview.png
-3. Create an images/ folder in your project
-4. Put preview.png inside images/
-5. Push to GitHub — the image will appear here automatically -->
 
 ![Web App Preview](web_preview.png)
 
